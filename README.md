@@ -40,6 +40,7 @@ Difficulty factor for hard level: 2
 9. Show previous games score for player in a sidebar
 
 10. Show best score for player
+11. Application UI should match with the provided UI design mocks
 
 ## Additional Requirement
 
@@ -59,6 +60,7 @@ UI design mocks are available in `design-mocks` folder
 
 - React JS
 - CSS/SCSS
+- Jest and React Testing Library
 
 ## Learning outcomes
 
