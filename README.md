@@ -45,14 +45,15 @@ Difficulty factor for hard level: 2
 
 - Write Test cases for your components.
 
-## Design mocks
+## UI Design mocks
 
-UI mocks are available in `design-mocks` folder
-Home Page | Game Page
-:-------------------------:|:-------------------------:
-![](design-mocks/1.png) | ![](design-mocks/2.png)
-![](design-mocks/3.png) | ![](design-mocks/4.png)
-![](design-mocks/5.png) | ![](design-mocks/6.png)
+UI design mocks are available in `design-mocks` folder
+
+|                         |                         |
+| :---------------------: | :---------------------: |
+| ![](design-mocks/1.png) | ![](design-mocks/2.png) |
+| ![](design-mocks/3.png) | ![](design-mocks/4.png) |
+| ![](design-mocks/5.png) | ![](design-mocks/6.png) |
 
 ## Tech stack
 
