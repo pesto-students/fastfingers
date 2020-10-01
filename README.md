@@ -62,7 +62,7 @@ UI design mocks are available in `design-mocks` folder
 
 [Zeplin web link](https://zpl.io/a710mxj)
 
-[Zeplin app link](zpl://project?pid=5f75f13621f33094313f2b94)
+Zeplin App Link: zpl://project?pid=5f75f13621f33094313f2b94
 
 ## Tech stack
 
