@@ -78,17 +78,11 @@ Zeplin App Link: zpl://project?pid=5f75f13621f33094313f2b94
 
 ## Allowed Tech stack
 
-You can use ReactJS of plain vanilla HTML, CSS, and JavaScript to develop this project.
-
--
-- CSS/SCSS
+- HTML, CSS, JavaScript
+- Bootstrap
+- ReactJS
+- SCSS
+- DOM Testing Library
 - Jest and React Testing Library
 
-## Learning outcomes
-
-- Interactive UI design and smooth user experience
-- React concepts
-  - State management in React
-  - Form Handling
-- Basic JavaScript(array and string methods)
-- How to use Local Storage/Session storage
+**NOTE: React Component libraries like Material UI, Antd, Chakra UI are not allowed**
