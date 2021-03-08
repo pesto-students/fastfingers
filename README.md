@@ -72,9 +72,9 @@ UI design mocks are available in `design-mocks` folder
 
 [Adobe XD design link](https://drive.google.com/file/d/1qYhb8cNdXoBnD9rxoDcWF4DmTEpQX35n/view?usp=sharing)
 
-[Zeplin web link](https://zpl.io/a710mxj)
+[Zeplin web link](https://zpl.io/a7j7MJE)
 
-Zeplin App Link: zpl://project?pid=5f75f13621f33094313f2b94
+Zeplin App Link: zpl://project?pid=6023da0b656a94025ca7b58e
 
 ## Allowed Tech stack
 
